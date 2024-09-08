@@ -2,7 +2,7 @@
 LeakG3PD: a Python generator and simulated Water Distribution System dataset
 
 This is an updated and improved version of [LeakDB](https://github.com/KIOS-Research/LeakDB) as follows.
--  Leak data consistency: now leak demands track pressure values according to literature equation.
+-  Leak data consistency: now leak demands track pressure values according to WNTR leak model equation.
 
 <a href="https://drive.google.com/file/d/1p17QtyyP0tKLSloICMd8HEPYFukHQLNg/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1p17QtyyP0tKLSloICMd8HEPYFukHQLNg" width="600" height="240"/><a>
 
