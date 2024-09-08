@@ -3,7 +3,7 @@ LeakG3PD: a Python generator and simulated Water Distribution System dataset
 
 This is an updated and improved version of [LeakDB](https://github.com/KIOS-Research/LeakDB):
 -  leak data consistency
--  <a href="https://drive.google.com/drive/folders/"><img src="https://drive.google.com/drive/folders/1G6jHoWhwe0HkRGREEgZuedCJxq5T9Hvq?usp=sharing\LeakG3PDDataConsistency.jpg" width="200" height="100"/><a> 
+-  <a href="https://drive.google.com/file/d/1p17QtyyP0tKLSloICMd8HEPYFukHQLNg/view?usp=sharing"><img src="https://drive.google.com/thumbnail?id={1p17QtyyP0tKLSloICMd8HEPYFukHQLNg}&sz=w1000" width="200" height="100"/><a> 
 -  more realistic representations of leak possible locations
 -  more complex network
 -  more variability of physical values along time
