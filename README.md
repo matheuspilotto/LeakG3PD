@@ -4,11 +4,11 @@ LeakG3PD: a Python generator and simulated Water Distribution System dataset
 This is an updated and improved version of [LeakDB](https://github.com/KIOS-Research/LeakDB):
 -  leak data consistency
 
-<a href="https://drive.google.com/file/d/1p17QtyyP0tKLSloICMd8HEPYFukHQLNg/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1p17QtyyP0tKLSloICMd8HEPYFukHQLNg" width="800" height="320"/><a>
+<a href="https://drive.google.com/file/d/1p17QtyyP0tKLSloICMd8HEPYFukHQLNg/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1p17QtyyP0tKLSloICMd8HEPYFukHQLNg" width="600" height="240"/><a>
 
 -  more complex network
 
-<b href="https://drive.google.com/file/d/1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU" width="700" height="600"/><b>
+<b href="https://drive.google.com/file/d/1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU" width="600" height="500"/><b>
 
 -  more realistic representations of leak possible locations
   
@@ -20,7 +20,7 @@ This is an updated and improved version of [LeakDB](https://github.com/KIOS-Rese
 
 -  improved storage features
 
-<c href="https://drive.google.com/file/d/1MSCMd4zPRxCyZIaB58beqxwmGP4PUiHH/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1MSCMd4zPRxCyZIaB58beqxwmGP4PUiHH" width="600" height="500"/><c>
+<c href="https://drive.google.com/file/d/1MSCMd4zPRxCyZIaB58beqxwmGP4PUiHH/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1MSCMd4zPRxCyZIaB58beqxwmGP4PUiHH" width="300" height="250"/><c>
 
 
 # Available Datasets
