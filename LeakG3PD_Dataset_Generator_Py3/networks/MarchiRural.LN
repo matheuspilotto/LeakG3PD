@@ -1,0 +1,29 @@
+#
+# Arquivo de Configuração do LenhsNet (pré-definido) 
+#
+[CONFIGURACOES]
+;Cota		PressaoMinima		UnidadeVazao
+Fixa		15			l/s
+[TRECHOSIGNORADOS]
+;ID
+[FIXA]
+;Cota		Velocidade		VelocidadeMaxima  Dividir
+30.0		Nao			3.5    Nao
+[VARIAVEL]
+;Vazao	Rendimento	Anos	i	e	T	nb	Fa	FaV	CotaTerreno
+3.0  75.0		20	12.0	6.0	0.2	20	C	12.987	20.0
+[LIMITES]
+;VelMinOp  VelMin  PreMaxOp  PreMax PreMinOp
+Nao  0   Nao   0   Sim
+[TUBOS]
+;Diametro*	Rugosidade	Tipo**	Custo
+108.4  145   PVC   47.09
+156.4  145   PVC   63.8
+204.2  145   PVC   87.62
+252    145   PVC   118.59
+299.8  145   PVC   152.24
+366.2  130   FOFO  317.86
+416.4  130   FOFO  375
+466.6  130   FOFO  436.23
+518    130   FOFO  515.6
+619.6  130   FOFO  640.3
