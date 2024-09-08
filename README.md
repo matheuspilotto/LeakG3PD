@@ -7,11 +7,11 @@ This is an updated and improved version of [LeakDB](https://github.com/KIOS-Rese
 
 -  more realistic representations of leak possible locations
 -  more complex network
-<a href="https://drive.google.com/file/d/1YBI7p1aNa9AWHSudSm8CfY3G7jHERs_G/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1YBI7p1aNa9AWHSudSm8CfY3G7jHERs_G" width="800" height="320"/><a>
+<b href="https://drive.google.com/file/d/1YBI7p1aNa9AWHSudSm8CfY3G7jHERs_G/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1YBI7p1aNa9AWHSudSm8CfY3G7jHERs_G" width="800" height="320"/><b>
 
 -  more variability of physical values along time
 -  improved storage features
-https://drive.google.com/file/d/1n2rYS0fuHEacLMCgiE3EKVdEws7xAyyF/view?usp=sharing
-https://drive.google.com/uc?export=view&id=1n2rYS0fuHEacLMCgiE3EKVdEws7xAyyF
+
+
 # Available Datasets
 Download using the link: [LeakG3PD DATASETS](https://drive.google.com/drive/folders/1HM2xI9VpC4us7rFX4IuXXCoHDrnWfC17?usp=sharing)
