@@ -1,5 +1,4 @@
-# LeakG3PD
-LeakG3PD: a Python generator and simulated Water Distribution System dataset
+# LeakG3PD: a Python generator and simulated Water Distribution System dataset
 
 This is an updated and improved version of [LeakDB](https://github.com/KIOS-Research/LeakDB) as follows.
 -  Leak data consistency: now leak demands track pressure values according to WNTR leak model equation.
