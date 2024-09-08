@@ -8,11 +8,11 @@ This is an updated and improved version of [LeakDB](https://github.com/KIOS-Rese
 
 -  more complex network
 
-<b href="https://drive.google.com/file/d/1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU" width="700" height="700"/><b>
+<b href="https://drive.google.com/file/d/1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1HRzs4A-f6ZWxqcgyWLvO3TWCXLFkSmfU" width="700" height="600"/><b>
 
 -  more realistic representations of leak possible locations
   
-<c href="https://drive.google.com/file/d/1lbGNm5rrA6xib4ochr8GLl7PJA2fUAQ0/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1lbGNm5rrA6xib4ochr8GLl7PJA2fUAQ0" width="600" height="620"/><c>
+<c href="https://drive.google.com/file/d/1lbGNm5rrA6xib4ochr8GLl7PJA2fUAQ0/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1lbGNm5rrA6xib4ochr8GLl7PJA2fUAQ0" width="600" height="500"/><c>
 
 
 -  more variability of physical values along time
