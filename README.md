@@ -17,7 +17,7 @@ This is an updated and improved version of [LeakDB](https://github.com/KIOS-Rese
 
 <c href="https://drive.google.com/file/d/15Xcs4Qn3-r03E14J4IZNFRkLjAzJI4rs/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=15Xcs4Qn3-r03E14J4IZNFRkLjAzJI4rs" width="600" height="500"/><c>
 
--  Improved storage features: files for diferent nodes and links were grouped into single archives according to physical variables; the only scenario without any leak is scenario 0
+-  Improved storage features: files for diferent nodes and links were grouped into single archives according to physical variables; the only scenario without any leak along the entire simulation time is scenario 0
 
 <c href="https://drive.google.com/file/d/1MSCMd4zPRxCyZIaB58beqxwmGP4PUiHH/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1MSCMd4zPRxCyZIaB58beqxwmGP4PUiHH" width="300" height="250"/><c>
 
